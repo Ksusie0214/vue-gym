@@ -1,0 +1,199 @@
+body, div, dl, dt, h1, h2, h3, h4, h5, h6, input, fieldset, legend, p, select, table, th, td, tr, textarea, button, form, ol, ul, li{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+}
+
+#payAll{
+    background-color: #313131;
+    width: 1125px;
+    height: 2436px;
+    position: absolute;
+}
+
+#payTitle {
+    font-size: 150px;
+    font-family: "VITRO CORE OTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    line-height: 0.6;
+    text-align: center;
+    position: absolute;
+    left: 176.904px;
+    top: 207px;
+    z-index: 3;
+  }
+
+#paySubTitle {
+    font-size: 90px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 255, 255);
+    line-height: 1;
+    text-align: center;
+    position: absolute;
+    left: 300px;
+    top: 357.672px;
+    z-index: 4;
+  }
+#payInfo {
+    border-width: 10px;
+    border-color: rgb(255, 0, 102);
+    border-style: solid;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 114px;
+    margin-top: 544px;
+    width: 880px;
+    height: 540px;
+    z-index: 6;
+}
+#payList{
+    list-style-type: none;
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: #313131;
+}
+.payList1{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.payInfo1{
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 0, 102);
+    line-height: 1;
+    text-align: center;
+    position: absolute;
+    left: 603.453px;
+    top: 623.672px;
+    z-index: 7;
+  }
+
+.payList2{
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.payInfo2{
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 0, 102);
+    line-height: 1;
+    text-align: center;
+    position: absolute;
+    left: 619px;
+    top: 776px;
+}
+
+.payList3{
+    margin-left: 55px;
+    margin-top: 50px;
+}
+.payInfo3{
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 0, 102);
+    line-height: 1;
+    text-align: center;
+    position: absolute;
+    left: 577px;
+    top: 935px;
+}
+.payInfo>ul>li {
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(49, 49, 49);
+    line-height: 1.125;
+    text-align: center;
+    position: absolute;
+    margin: 114px 544px 111px 1332px;
+  }
+  
+#check1{
+    font-size: 50px;
+    font-family: "VITRO INSPIRE TTF";
+    color: #ffffff;
+    line-height: 1.8;
+    text-align: center;
+    position: absolute;
+    left: 378px;
+    top: 1181px;
+    z-index: 11;
+  }
+  
+#check2{
+    font-size: 50px;
+    font-family: "VITRO INSPIRE TTF";
+    color: #ffffff;
+    line-height: 1.8;
+    text-align: center;
+    position: absolute;
+    left: 411.75px;
+    top: 1275px;
+    z-index: 13;
+}
+
+.payCheckbox1{
+    width: 54px;
+    height: 54px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 305px;
+    top: 1200px;
+}
+.payCheckbox2{
+    width: 54px;
+    height: 54px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 305px;
+    top: 1290px;
+}
+
+#payBtn {
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 255, 255);
+    border-width: 10px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    background-color: rgb(255, 0, 102);
+    position: absolute;
+    left: 296px;
+    top: 1417px;
+    width: 505px;
+    height: 160px;
+    z-index: 14;
+  }
+ 
+.footer1 {
+    font-size: 60px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    line-height: 1.5;
+    text-align: center;
+    position: absolute;
+    left: 350.484px;
+    top: 2212px;
+    z-index: 17;
+}
+
+.footer2{
+    font-size: 50px;
+    font-family: "VITRO PRIDE TTF";
+    color: rgb(255, 0, 102);
+    line-height: 1.8;
+    text-align: center;
+    position: absolute;
+    left: 211px;
+    top: 2302.18px;
+    z-index: 16;
+  }
+  
+  
+
+  
+  
+
+
+  

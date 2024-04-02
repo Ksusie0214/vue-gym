@@ -1,0 +1,64 @@
+body, div, dl, dt, h1, h2, h3, h4, h5, h6, input, fieldset, legend, p, select, table, th, td, tr, textarea, button, form, ol, ul, li{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+}
+
+#MemberListAll{
+    background-color: #313131;
+    width: 1125px;
+    height: 2346px;
+}
+#MemberListTitle1 {
+    font-size: 150px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    line-height: 0.6;
+    text-align: center;
+    position: absolute;
+    left: 211px;
+    top: 154px;
+    z-index: 3;
+  }
+
+ #MemberListTitle2{
+    font-size: 150px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    line-height: 0.6;
+    text-align: center;
+    position: absolute;
+    left: 395.032px;
+    top: 343px;
+    z-index: 4;
+}
+#postTable {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 102px;
+    top: 579px;
+    width: 920px;
+    height: 1500px;
+    z-index: 5;
+}
+.성함 {
+    font-size: 50px;
+    font-family: "VITRO CORE TTF";
+    color: rgb(49, 49, 49);
+    line-height: 1.8;
+    text-align: center;
+    position: absolute;
+    left: 224.453px;
+    top: 673px;
+    z-index: 8;
+  }
+.TableHead{
+    font-size: 50px;
+    font-family: "VITRO CORE TTF";
+    color: rgb(49, 49, 49)
+}  
+
+  
+  
+  

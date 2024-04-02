@@ -1,0 +1,135 @@
+body, div, dl, dt, h1, h2, h3, h4, h5, h6, input, fieldset, legend, p, select, table, th, td, tr, textarea, button, form, ol, ul, li{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+}
+
+#trEnrollAll{
+    background-color: #313131;
+    width: 1125px;
+    height: 2436px;
+}
+
+#trEnrollTitle{
+    font-size: 150px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    line-height: 0.6;
+    text-align: center;
+    position: absolute;
+    left: 170px;
+    top: 193px;
+    z-index: 3;
+}
+
+#trEnrollSubtitle {
+    font-size: 80px;
+    font-family: "VITRO CORE TTF";
+    color: rgb(255, 255, 255);
+    line-height: 1.125;
+    text-align: center;
+    position: absolute;
+    left: 330.281px;
+    top: 385px;
+    z-index: 15;
+}
+#EnrollImgTray{
+    border-width: 8px;
+    border-color: rgb(255, 0, 102);
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 207px;
+    top: 548px;
+    width: 701px;
+    height: 701px;
+    z-index: 8;
+}
+#ImgUploadBtn{
+    font-size: 60px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 0, 102);
+    line-height: 1.5;
+    text-align: center;  
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 675px;
+    top: 1300px;
+    width: 245px;
+    height: 110px;
+    z-index: 6;   
+}
+#EnrollTrNameInput{
+    font-size: 100px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    left: 259px;
+    top: 1466px;
+    position: absolute;
+} 
+#EnrollTrName{
+    font-size: 100px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    left: 535px;
+    top: 1466px;
+    position: absolute;
+}
+#trEnrollCareer{
+    font-size: 80px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 255, 255);
+    line-height: 1.125;
+    text-align: center;
+    position: absolute;
+    left: 192px;
+    top: 1688.047px;
+    z-index: 5;
+}
+#trEnrollCareerInput{
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 346px;
+    top: 1688px;
+    width: 578px;
+    height: 85px;
+    z-index: 4;
+}
+#trEnrollBtn {
+    font-size: 80px;
+    font-family: "VITRO CORE TTF";
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    background-color: rgb(255, 0, 102);
+    position: absolute;
+    left: 246px;
+    top: 1867px;
+    width: 620px;
+    height: 250px;
+    z-index: 9;
+}
+#footer1{
+    font-size: 60px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: rgb(255, 0, 102);
+    line-height: 1.5;
+    text-align: center;
+    position: absolute;
+    left: 350.484px;
+    top: 2212px;
+    z-index: 17;
+}
+  
+  
