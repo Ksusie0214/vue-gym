@@ -2,22 +2,85 @@
     <div id="MemberListAll">
         <h1 id="MemberListTitle1">MEMBER</h1>
         <h1 id="MemberListTitle2">LIST</h1>
-        <table id="postTable">
-            <thead id="postTableHead">
-                <tr class="TableHead">성함</tr>
-                <tr class="TableHead">PT 잔여횟수</tr>
-                <tr class="TableHead">강사</tr>
-            </thead>
-            <tbody id="postTableBody">
-                <tr>이름</tr>
-                <tr>0회</tr>
-                <tr>강사이름</tr>
-            </tbody>
-        </table>
-        <input type="text" id="postSearch">
-        <button id="postMoreBtn">게시글 10개 더보기</button>
-        <span class="footer1">CodeCrafters</span>
-        <span class="footer2">copyrights(c) all rights Reserved</span>
+
+        <div id="postInfoAll">
+            <table id="postTable">
+                <colgroup>
+                    <col style="width: 27%;">
+                    <col style="width: 46%;">
+                    <col style="width: 27%;">
+                </colgroup>
+                <thead id="postTableHead">
+                    <tr>
+                        <th class="postTableHeadData">성함</th>
+                        <th class="postTableHeadData">PT 잔여횟수</th>
+                        <th class="postTableHeadData">강사</th>
+                    </tr>
+                </thead>
+                <tbody id="postTableBody">
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+                    <tr>
+                        <td class="postTableBodyData">이름</td>
+                        <td class="postTableBodyData">횟수</td>
+                        <td class="postTableBodyData">이름</td>
+                    </tr>
+
+                </tbody>
+            </table>
+            <input type="text" id="postSearch" placeholder="검색">
+            <ol id="memberList">
+                <li class="li">이전</li>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+                <li>4</li>
+                <li>5</li>
+                <li>다음</li>
+            </ol>
+            
+        </div>
+        
+        <span class="listfooter1">CodeCrafters</span>
+        <span class="listfooter2">copyrights(c) all rights Reserved</span>
     </div>
 </template>
 

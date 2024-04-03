@@ -45,21 +45,7 @@ body, div, dl, dt, h1, h2, h3, h4, h5, h6, input, fieldset, legend, p, select, t
     height: 701px;
     z-index: 8;
 }
-#ImgUploadBtn{
-    font-size: 60px;
-    font-family: "VITRO INSPIRE TTF";
-    color: rgb(255, 0, 102);
-    line-height: 1.5;
-    text-align: center;  
-    border-radius: 20px;
-    background-color: rgb(255, 255, 255);
-    position: absolute;
-    left: 675px;
-    top: 1300px;
-    width: 245px;
-    height: 110px;
-    z-index: 6;   
-}
+
 #EnrollTrNameInput{
     font-size: 100px;
     font-family: "VITRO CORE TTF";

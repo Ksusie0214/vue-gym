@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import PaymentView from '../views/PaymentView.vue'
 import trainerEnrollView from '../views/trainerEnrollView.vue'
 import MemberListView from '@/views/MemberListView.vue'
+import JoinOkView from '@/views/JoinOkView.vue'
 
 const routes = [
   {
@@ -18,6 +19,11 @@ const routes = [
     path: '/list',
     name: 'memberList',
     component: MemberListView
+  },
+  {
+    path: '/joinok',
+    name: 'joinokview',
+    component: JoinOkView
   }
 ]
 
