@@ -4,7 +4,10 @@
         <h2 id="trEnrollSubtitle">트레이너 등록</h2>
         <img src="" alt="">
         <div id="EnrollImgTray"></div>
-        <button id="ImgUploadBtn">사진 등록</button>
+        <div class="filebox">
+            <label for="file">사진 등록</label> 
+            <input type="file" id="file">
+        </div>
         <label id="EnrollTrNameInput">이름 : </label>
         <span id="EnrollTrName">박종희</span>
         <label id="trEnrollCareer">경력</label>
