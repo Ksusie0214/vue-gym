@@ -4,6 +4,7 @@ import trainerEnrollView from '../views/trainerEnrollView.vue'
 import MemberListView from '@/views/MemberListView.vue'
 import JoinOkView from '@/views/JoinOkView.vue'
 import ManagerView from '@/views/ManagerView.vue'
+import PersonInfoView from '@/views/PersonInfoView.vue'
 
 const routes = [
   {
@@ -28,6 +29,11 @@ const routes = [
   },
   {
     path: '/manager',
+    name: 'managerView',
+    component: ManagerView
+  },
+  {
+    path: '/personinfo',
     name: 'managerView',
     component: ManagerView
   }
