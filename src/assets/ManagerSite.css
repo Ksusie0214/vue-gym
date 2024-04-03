@@ -1,0 +1,95 @@
+
+
+/* Manager section */
+#manager {
+    background-size: cover;
+    background-color: #313131;
+    padding: 20px;
+}
+
+/* Header */
+#head {
+    background-color: rgb(255, 0, 102);
+    padding: 10px;
+    border-radius: 30px 30px 0 0 ;
+    width: 1500px;
+}
+
+h1 {
+    font-family: "VITRO CORE TTF";
+    font-size: 45px;
+    font-style: italic;
+    color: #fff;
+    margin-left: 30px;
+    display: inline-block;
+}
+h2{
+    font-family: "VITRO INSPIRE TTF";
+    font-size: 35px;
+    color: #fff;
+    float: right;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+
+/* Table */
+table {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 1450px;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #fff;
+}
+
+table, th, td {
+    border-bottom:  3px solid #a6a6a6;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+thead{
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 0, 102);
+    font-size: 25px;
+}
+
+tbody{
+    font-family: "VITRO PRIDE TTF";
+    font-size: 18px;
+    font-weight: bold;
+}
+tbody tr:hover{
+    background-color: #ccc;
+}
+
+/* Pagination */
+#paging {
+    margin-top: 20px;
+}
+
+#paging ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#paging li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#paging a {
+    font-family: "VITRO PRIDE TTF";
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #000;
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+#paging a:hover {
+    background-color: #ccc;
+}

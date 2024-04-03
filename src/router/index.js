@@ -3,6 +3,7 @@ import PaymentView from '../views/PaymentView.vue'
 import trainerEnrollView from '../views/trainerEnrollView.vue'
 import MemberListView from '@/views/MemberListView.vue'
 import JoinOkView from '@/views/JoinOkView.vue'
+import ManagerView from '@/views/ManagerView.vue'
 
 const routes = [
   {
@@ -24,6 +25,11 @@ const routes = [
     path: '/joinok',
     name: 'joinokview',
     component: JoinOkView
+  },
+  {
+    path: '/manager',
+    name: 'managerView',
+    component: ManagerView
   }
 ]
 
