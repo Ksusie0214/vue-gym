@@ -1,0 +1,67 @@
+#header{
+    width: 1125px;
+    height: 150px;
+    background-color: rgb(255, 0, 102);
+    border-radius: 40px 40px 0px 0px;
+}
+#header span{
+    font-size: 90px;
+    font-family: "VITRO CORE TTF";
+    font-style: italic;
+    color: #fff;
+    margin-left: 70px;
+    line-height: 150px;
+}
+#header button{
+    float: right;
+    width: 150px;
+    height: 100px;
+    margin-top: 23px;
+    margin-right: 30px;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 45px;
+    font-family: "VITRO INSPIRE TTF";
+    color: rgb(255, 0, 102);
+}
+
+#JoinOkAll{
+    width: 1125px;
+    height: 2436px;
+    background-color: #313131;
+}
+#JoinOktitle1{
+    font-size: 150px;
+    font-family: "VITRO CORE TTF";
+    color: rgb(255, 0, 102);
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 120px;
+}
+#JoinOktitle2{
+    font-size: 150px;
+    font-family: "VITRO CORE TTF";
+    color: rgb(255, 0, 102);
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 330px;
+}
+#JoinOkImg{
+    width: 450px;
+    height: 350px;
+    padding-left: 320px;
+    padding-top: 700px;
+}
+#JoinOkBtn{
+    width: 350px;
+    height: 210px;
+    font-size: 90px;
+    font-family: "VITRO INSPIRE TTF";
+    color: #FFFFFF;
+    background-color: rgb(255, 0, 102);
+    border-radius: 30px;
+    border: 8px solid #fff;
+    position: absolute;
+    left: 370px;
+    top: 1300px;
+}
